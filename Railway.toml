@@ -1,0 +1,5 @@
+[build]
+command = "chmod +x tele_img"
+
+[start]
+command = "./tele_img"
